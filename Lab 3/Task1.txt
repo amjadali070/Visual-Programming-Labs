@@ -1,0 +1,16 @@
+///	<summary>
+///	program class
+///	project starts from main methods of this class 
+///	</summary>
+class Program
+{
+	///	<summary>
+	///		Main Method
+	///		Entry point of Project
+	///	</summary>
+
+	static void Main(string[] args)
+    	{
+
+	}
+}
