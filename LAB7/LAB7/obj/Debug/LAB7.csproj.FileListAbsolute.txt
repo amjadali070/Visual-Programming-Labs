@@ -1,0 +1,10 @@
+C:\Users\TEMP\source\repos\LAB7\LAB7\obj\Debug\LAB7.csprojAssemblyReference.cache
+C:\Users\TEMP\source\repos\LAB7\LAB7\obj\Debug\LAB7.Form1.resources
+C:\Users\TEMP\source\repos\LAB7\LAB7\obj\Debug\LAB7.Properties.Resources.resources
+C:\Users\TEMP\source\repos\LAB7\LAB7\obj\Debug\LAB7.csproj.GenerateResource.cache
+C:\Users\TEMP\source\repos\LAB7\LAB7\obj\Debug\LAB7.csproj.CoreCompileInputs.cache
+C:\Users\TEMP\source\repos\LAB7\LAB7\bin\Debug\LAB7.exe.config
+C:\Users\TEMP\source\repos\LAB7\LAB7\bin\Debug\LAB7.exe
+C:\Users\TEMP\source\repos\LAB7\LAB7\bin\Debug\LAB7.pdb
+C:\Users\TEMP\source\repos\LAB7\LAB7\obj\Debug\LAB7.exe
+C:\Users\TEMP\source\repos\LAB7\LAB7\obj\Debug\LAB7.pdb

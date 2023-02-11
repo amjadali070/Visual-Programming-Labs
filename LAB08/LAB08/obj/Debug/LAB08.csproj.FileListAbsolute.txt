@@ -1,0 +1,12 @@
+C:\Users\ammar\source\repos\LAB08\LAB08\bin\Debug\LAB08.exe.config
+C:\Users\ammar\source\repos\LAB08\LAB08\bin\Debug\LAB08.exe
+C:\Users\ammar\source\repos\LAB08\LAB08\bin\Debug\LAB08.pdb
+C:\Users\ammar\source\repos\LAB08\LAB08\obj\Debug\LAB08.csproj.AssemblyReference.cache
+C:\Users\ammar\source\repos\LAB08\LAB08\obj\Debug\LAB08.frmBuildPizza.resources
+C:\Users\ammar\source\repos\LAB08\LAB08\obj\Debug\LAB08.Properties.Resources.resources
+C:\Users\ammar\source\repos\LAB08\LAB08\obj\Debug\LAB08.csproj.GenerateResource.cache
+C:\Users\ammar\source\repos\LAB08\LAB08\obj\Debug\LAB08.csproj.CoreCompileInputs.cache
+C:\Users\ammar\source\repos\LAB08\LAB08\obj\Debug\LAB08.exe
+C:\Users\ammar\source\repos\LAB08\LAB08\obj\Debug\LAB08.pdb
+C:\Users\ammar\source\repos\LAB08\LAB08\obj\Debug\LAB08.frmSignUp.resources
+C:\Users\ammar\source\repos\LAB08\LAB08\obj\Debug\LAB08.frmTrexGame.resources
