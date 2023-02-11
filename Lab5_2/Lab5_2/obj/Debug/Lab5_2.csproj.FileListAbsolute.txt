@@ -1,0 +1,12 @@
+C:\Users\ammar\source\repos\Lab5_2\Lab5_2\bin\Debug\Lab5_2.exe.config
+C:\Users\ammar\source\repos\Lab5_2\Lab5_2\bin\Debug\Lab5_2.exe
+C:\Users\ammar\source\repos\Lab5_2\Lab5_2\bin\Debug\Lab5_2.pdb
+C:\Users\ammar\source\repos\Lab5_2\Lab5_2\obj\Debug\Lab5_2.csproj.AssemblyReference.cache
+C:\Users\ammar\source\repos\Lab5_2\Lab5_2\obj\Debug\Lab5_2.frmMatrix1.resources
+C:\Users\ammar\source\repos\Lab5_2\Lab5_2\obj\Debug\Lab5_2.frmMatrix2.resources
+C:\Users\ammar\source\repos\Lab5_2\Lab5_2\obj\Debug\Lab5_2.frmMatrix3.resources
+C:\Users\ammar\source\repos\Lab5_2\Lab5_2\obj\Debug\Lab5_2.Properties.Resources.resources
+C:\Users\ammar\source\repos\Lab5_2\Lab5_2\obj\Debug\Lab5_2.csproj.GenerateResource.cache
+C:\Users\ammar\source\repos\Lab5_2\Lab5_2\obj\Debug\Lab5_2.csproj.CoreCompileInputs.cache
+C:\Users\ammar\source\repos\Lab5_2\Lab5_2\obj\Debug\Lab5_2.exe
+C:\Users\ammar\source\repos\Lab5_2\Lab5_2\obj\Debug\Lab5_2.pdb

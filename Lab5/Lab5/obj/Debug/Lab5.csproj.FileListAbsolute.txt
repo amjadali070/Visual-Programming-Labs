@@ -1,0 +1,20 @@
+C:\Users\ammar\source\repos\Lab5\Lab5\bin\Debug\Lab5.exe.config
+C:\Users\ammar\source\repos\Lab5\Lab5\bin\Debug\Lab5.exe
+C:\Users\ammar\source\repos\Lab5\Lab5\bin\Debug\Lab5.pdb
+C:\Users\ammar\source\repos\Lab5\Lab5\obj\Debug\Lab5.csproj.AssemblyReference.cache
+C:\Users\ammar\source\repos\Lab5\Lab5\obj\Debug\Lab5.PictureViewer.resources
+C:\Users\ammar\source\repos\Lab5\Lab5\obj\Debug\Lab5.Properties.Resources.resources
+C:\Users\ammar\source\repos\Lab5\Lab5\obj\Debug\Lab5.csproj.GenerateResource.cache
+C:\Users\ammar\source\repos\Lab5\Lab5\obj\Debug\Lab5.csproj.CoreCompileInputs.cache
+C:\Users\ammar\source\repos\Lab5\Lab5\obj\Debug\Lab5.exe
+C:\Users\ammar\source\repos\Lab5\Lab5\obj\Debug\Lab5.pdb
+F:\IBA SUKKUR\BS-V\Visual Programming\Lab\Lab5\Lab5\bin\Debug\Lab5.exe.config
+F:\IBA SUKKUR\BS-V\Visual Programming\Lab\Lab5\Lab5\bin\Debug\Lab5.exe
+F:\IBA SUKKUR\BS-V\Visual Programming\Lab\Lab5\Lab5\bin\Debug\Lab5.pdb
+F:\IBA SUKKUR\BS-V\Visual Programming\Lab\Lab5\Lab5\obj\Debug\Lab5.csproj.AssemblyReference.cache
+F:\IBA SUKKUR\BS-V\Visual Programming\Lab\Lab5\Lab5\obj\Debug\Lab5.PictureViewer.resources
+F:\IBA SUKKUR\BS-V\Visual Programming\Lab\Lab5\Lab5\obj\Debug\Lab5.Properties.Resources.resources
+F:\IBA SUKKUR\BS-V\Visual Programming\Lab\Lab5\Lab5\obj\Debug\Lab5.csproj.GenerateResource.cache
+F:\IBA SUKKUR\BS-V\Visual Programming\Lab\Lab5\Lab5\obj\Debug\Lab5.csproj.CoreCompileInputs.cache
+F:\IBA SUKKUR\BS-V\Visual Programming\Lab\Lab5\Lab5\obj\Debug\Lab5.exe
+F:\IBA SUKKUR\BS-V\Visual Programming\Lab\Lab5\Lab5\obj\Debug\Lab5.pdb
