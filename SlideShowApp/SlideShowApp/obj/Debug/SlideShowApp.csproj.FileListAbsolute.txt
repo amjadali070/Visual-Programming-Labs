@@ -1,0 +1,11 @@
+C:\Users\ammar\source\repos\SlideShowApp\SlideShowApp\bin\Debug\SlideShowApp.exe.config
+C:\Users\ammar\source\repos\SlideShowApp\SlideShowApp\bin\Debug\SlideShowApp.exe
+C:\Users\ammar\source\repos\SlideShowApp\SlideShowApp\bin\Debug\SlideShowApp.pdb
+C:\Users\ammar\source\repos\SlideShowApp\SlideShowApp\obj\Debug\SlideShowApp.csproj.AssemblyReference.cache
+C:\Users\ammar\source\repos\SlideShowApp\SlideShowApp\obj\Debug\SlideShowApp.frmSlideShow.resources
+C:\Users\ammar\source\repos\SlideShowApp\SlideShowApp\obj\Debug\SlideShowApp.Properties.Resources.resources
+C:\Users\ammar\source\repos\SlideShowApp\SlideShowApp\obj\Debug\SlideShowApp.csproj.GenerateResource.cache
+C:\Users\ammar\source\repos\SlideShowApp\SlideShowApp\obj\Debug\SlideShowApp.csproj.CoreCompileInputs.cache
+C:\Users\ammar\source\repos\SlideShowApp\SlideShowApp\obj\Debug\SlideShowApp.exe
+C:\Users\ammar\source\repos\SlideShowApp\SlideShowApp\obj\Debug\SlideShowApp.pdb
+C:\Users\ammar\source\repos\SlideShowApp\SlideShowApp\obj\Debug\SlideShowApp.csproj.SuggestedBindingRedirects.cache

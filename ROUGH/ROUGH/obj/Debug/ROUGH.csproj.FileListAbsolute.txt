@@ -1,0 +1,6 @@
+C:\Users\TEMP\source\repos\ROUGH\ROUGH\obj\Debug\ROUGH.csproj.CoreCompileInputs.cache
+C:\Users\TEMP\source\repos\ROUGH\ROUGH\bin\Debug\ROUGH.exe.config
+C:\Users\TEMP\source\repos\ROUGH\ROUGH\bin\Debug\ROUGH.exe
+C:\Users\TEMP\source\repos\ROUGH\ROUGH\bin\Debug\ROUGH.pdb
+C:\Users\TEMP\source\repos\ROUGH\ROUGH\obj\Debug\ROUGH.exe
+C:\Users\TEMP\source\repos\ROUGH\ROUGH\obj\Debug\ROUGH.pdb

@@ -1,0 +1,10 @@
+C:\Users\ammar\source\repos\SplashedScreen\SplashedScreen\bin\Debug\SplashedScreen.exe.config
+C:\Users\ammar\source\repos\SplashedScreen\SplashedScreen\bin\Debug\SplashedScreen.exe
+C:\Users\ammar\source\repos\SplashedScreen\SplashedScreen\bin\Debug\SplashedScreen.pdb
+C:\Users\ammar\source\repos\SplashedScreen\SplashedScreen\obj\Debug\SplashedScreen.frmSplashScreen.resources
+C:\Users\ammar\source\repos\SplashedScreen\SplashedScreen\obj\Debug\SplashedScreen.Properties.Resources.resources
+C:\Users\ammar\source\repos\SplashedScreen\SplashedScreen\obj\Debug\SplashedScreen.csproj.GenerateResource.cache
+C:\Users\ammar\source\repos\SplashedScreen\SplashedScreen\obj\Debug\SplashedScreen.csproj.CoreCompileInputs.cache
+C:\Users\ammar\source\repos\SplashedScreen\SplashedScreen\obj\Debug\SplashedScreen.exe
+C:\Users\ammar\source\repos\SplashedScreen\SplashedScreen\obj\Debug\SplashedScreen.pdb
+C:\Users\ammar\source\repos\SplashedScreen\SplashedScreen\obj\Debug\SplashedScreen.myApp.resources
